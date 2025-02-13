@@ -1,0 +1,17 @@
+/* Very Basic CSS Template */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F5950F;
+}
+
+h1 {
+    color: #7A1088;
+    text-align: center;
+}
+
+button {
+    background-color: #787878;
+    color: white;
+    border: none;
+}
